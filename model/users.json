@@ -1,0 +1,19 @@
+[
+  {
+    "username": "Hopper1",
+    "roles": { "User": 5400, "Editor": 5200, "Admin": 5150 },
+    "password": "$2b$10$UdPTcK.tl0gulQNmRjs0AOgmdPIH1NHFgVB3hXvvROo0oeti/K4kq"
+  },
+  {
+    "username": "Hopper3",
+    "roles": { "User": 5400 },
+    "password": "$2b$10$nS5E6TeK6r9TSA6pm0Ki6OHH6NxGw55PlFzgYuMlXNMolClDXWszy",
+    "refreshToken": ""
+  },
+  {
+    "username": "Hopper2",
+    "roles": { "User": 5400, "Editor": 5200 },
+    "password": "$2b$10$nS5E6TeK6r9TSA6pm0Ki6OHH6NxGw55PlFzgYuMlXNMolClDXWszy",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkhvcHBlcjIiLCJpYXQiOjE2OTc2OTU5NTcsImV4cCI6MTY5Nzc4MjM1N30.stZb2Tmr5hKp6j9WaCIT7AqpmEb3tDGJrq5m48R_o8M"
+  }
+]
